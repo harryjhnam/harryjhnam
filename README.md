@@ -12,7 +12,7 @@
 
 <h2 align="center">Recent Projects</h2>
 <h3 align="left">Adversarial Attacks On Neural Image Captioning System <a href="https://github.com/harryjhnam/CMU-11785-project/blob/master/11_785_Project_Report_team_24.pdf" target="blank"><img align="bottom" src="https://skillicons.dev/icons?i=github" width="22" style="vertical-align: bottom;"/></a></h3>
-<h3 align="left">Debiasing Image Captioning System (Show, Attend and Tell) </h3>
+<h3 align="left">Debiasing Image Captioning System (Show, Attend and Tell) <a href="https://github.com/jel-lambda/fairness-captioning" target="blank"><img align="bottom" src="https://skillicons.dev/icons?i=github" width="22" style="vertical-align: bottom;"/></a></h3>
 <h3 align="left">Emotion-Based Automatic Stage lighting system <a href="https://github.com/harryjhnam/Emotion-Based-automatic-stage-lighting" target="blank"><img align="bottom" src="https://skillicons.dev/icons?i=github" width="22" style="vertical-align: bottom;"/></a></h3>
 <h3 align="left">Ask rather than Guess: Fair Machine Translation System <a href="https://github.com/harryjhnam/gender_coreference_fair_translation" target="blank"><img align="bottom" src="https://skillicons.dev/icons?i=github" width="22" style="vertical-align: bottom;"/></a></h3>
 
