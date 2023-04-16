@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juhyeon <img src="https://komarev.com/ghpvc/?username=harryjhnam&label=Profile%20views&color=0e75b6&style=flat" alt="harryjhnam" /></h1>
 
-<br>
-<h3 align="center"> ‼️ Please check my portfolio to see all of my projects: <a href="https://www.notion.so/nlog/AI-ML-Juhyeon-Nam-s-Portfolio-5b9ef9e98e5c46089f796bb8d22264f9?pvs=4" target="blank"> 🇺🇸 Eng ver.</a>, 🇰🇷 Kor ver. ‼️ </h3>
-<br>
+
 
 <h3 align="center">A passionate research-level ML engineer from South Korea</h3>
+  
+<h3 align="center"> ‼️ Please check my portfolio to see all of my projects: <a href="https://www.notion.so/nlog/AI-ML-Juhyeon-Nam-s-Portfolio-5b9ef9e98e5c46089f796bb8d22264f9?pvs=4" target="blank"> 🇺🇸 Eng ver.</a>, 🇰🇷 Kor ver. ‼️ </h3>
+<br>
   
 <p align="center">
 <a href="https://www.linkedin.com/in/juhyeon-nam/" target="blank"><img src="https://img.shields.io/twitter/follow/juhyeon-nam?logo=linkedin&style=for-the-badge" alt="juhyeonnam" /></a>
