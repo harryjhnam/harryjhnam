@@ -6,7 +6,7 @@
   
 <br>
 <h3 align="center"> ‼️ Please check my portfolio to see all of my projects in detail: <a href="https://www.notion.so/nlog/AI-ML-Juhyeon-Nam-s-Portfolio-5b9ef9e98e5c46089f796bb8d22264f9?pvs=4" target="blank"> 🇺🇸 Portfolio Eng ver.</a> ‼️ </h3>
-<h3 align="center"> ‼️ 제 모든 프로젝트를 좀 더 편하게 보시려면 포트폴리오를 확인해 주세요. <a href="https://www.notion.so/nlog/AI-ML-Juhyeon-Nam-s-Portfolio-5b9ef9e98e5c46089f796bb8d22264f9?pvs=4" target="blank"> 🇰🇷 한국어 포트폴리오</a> ‼️ </h3>
+<h3 align="center"> ‼️ 제 모든 프로젝트를 좀 더 편하게 보시려면 포트폴리오를 확인해 주세요. <a href="https://www.notion.so/nlog/AI-ML-Juhyeon-Nam-s-Portfolio-5b9ef9e98e5c46089f796bb8d22264f9?pvs=4" target="blank"> 🇰🇷 포트폴리오</a> ‼️ </h3>
 <br>
 <br>
 
