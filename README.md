@@ -25,6 +25,7 @@
 <h3 align="left">Question Answering and Question Generation System <a href="https://github.com/harryjhnam/CMU-11611-QA-and-QG" target="blank"><img align="bottom" src="https://skillicons.dev/icons?i=github" width="22" style="vertical-align: bottom;"/></a></h3>
 <h3 align="left">Debiasing Image Captioning System (Show, Attend and Tell) <a href="https://github.com/jel-lambda/fairness-captioning" target="blank"><img align="bottom" src="https://skillicons.dev/icons?i=github" width="22" style="vertical-align: bottom;"/></a></h3>
 <h3 align="left">Emotion-Based Automatic Stage lighting system <a href="https://github.com/harryjhnam/Emotion-Based-automatic-stage-lighting" target="blank"><img align="bottom" src="https://skillicons.dev/icons?i=github" width="22" style="vertical-align: bottom;"/></a></h3>
+<h3 align="left">Dynamic Video Subtitle Allocation System <a href="https://github.com/AirHorizons/CUTUBE" target="blank"><img align="bottom" src="https://skillicons.dev/icons?i=github" width="22" style="vertical-align: bottom;"/></a></h3>
 <h3 align="left">Ask rather than Guess: Fair Machine Translation System <a href="https://github.com/harryjhnam/gender_coreference_fair_translation" target="blank"><img align="bottom" src="https://skillicons.dev/icons?i=github" width="22" style="vertical-align: bottom;"/></a></h3>
 
 
